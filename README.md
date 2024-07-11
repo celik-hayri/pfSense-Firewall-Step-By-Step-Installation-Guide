@@ -2,13 +2,6 @@
 
 This project demonstrates the installation and configuration of pfSense firewall on a VirtualBox virtual machine. The steps include downloading the pfSense ISO file, setting up the virtual machine, installing pfSense, and performing initial and GUI configurations. This guide is intended for educational purposes and to help others set up their own pfSense firewall.
 
-## Table of Contents
-1. [Downloading pfSense ISO File](#downloading-pfsense-iso-file)
-2. [Adding pfSense to VirtualBox and Configuring Settings](#adding-pfsense-to-virtualbox-and-configuring-settings)
-3. [Starting and Configuring pfSense](#starting-and-configuring-pfsense)
-4. [GUI Configurations](#gui-configurations)
-
----
 
 ## Downloading pfSense ISO File
 
@@ -81,5 +74,11 @@ This project demonstrates the installation and configuration of pfSense firewall
 
 This guide provides a step-by-step walkthrough for setting up a pfSense firewall on VirtualBox. By following these instructions, you can configure a robust firewall to enhance your network security. For further customization and advanced configurations, refer to the official pfSense documentation.
 
-NOTE:Each forlder of pictures are self explanatory, each picture's description gives information of what to do! 
-Good Luck!
+`## NOTE:`
+
+- `Each folder of pictures is self-explanatory`
+- `Every picture includes a description`
+- `Descriptions provide information on what to do`
+- `Important parts are highlighted in red in every picture`
+
+`Good Luck!`
